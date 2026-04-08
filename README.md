@@ -1,6 +1,7 @@
 # 📖 Rock-Paper-Scissors: Theoretical Overview
 🎮 What is Rock-Paper-Scissors?
 Rock-Paper-Scissors is a classic hand game usually played between two people. Each player simultaneously forms one of three shapes with an outstretched hand:
+<img width="1355" height="632" alt="RockPapper" src="https://github.com/user-attachments/assets/a13059f5-daa3-4278-8ef7-f5369246094c" />
 
 ✊ Rock
 
